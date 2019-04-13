@@ -1,0 +1,10 @@
+<!DOCTYPE class [
+<!ELEMENT class (id|title|exams)*>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT exams (exam)*>
+<!ELEMENT exam (type|topics)*>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT topics (topic)*>
+<!ELEMENT topic (#PCDATA)>
+]>

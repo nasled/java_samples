@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<class>
+    <id>CS-001</id>
+    <title>Title</title>
+    <exams>
+        <exam>
+            <type>mid</type>
+            <topics>
+                <topic>HTTP</topic>
+            </topics>
+        </exam>
+    </exams>
+</class>
